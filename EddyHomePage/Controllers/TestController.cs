@@ -13,5 +13,11 @@ namespace EddyHomePage.Controllers
         {
             return View();
         }
+
+        // GET: Test
+        public ActionResult Sample1()
+        {
+            return View();
+        }
     }
 }
